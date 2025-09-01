@@ -18,7 +18,7 @@ This pathway includes multiple sub-courses and certificates:
 
 ---
 
-## API Security Fundamentals
+## API Certified Practitioner
 - API Security Fundamentals '25
 - API Aunthentication
 - Securing API Servers
