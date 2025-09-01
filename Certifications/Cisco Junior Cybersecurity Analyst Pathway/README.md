@@ -2,7 +2,7 @@
 
 This pathway includes multiple sub-courses and certificates:
 
-- [Introduction to Cybersecurity Certificate](Certifications/Cisco%20Junior%20Cybersecurity%20Analyst%20Pathway/Intoduction%20to%20Cybersecurity%20Certificate.pdf)
+- [Introduction to Cybersecurity Certificate](Intoduction%20to%20Cybersecurity%20Certificate.pdf)
 - [Cybersecurity Essentials Certificate](Certifications/Cisco%20Junior%20Cybersecurity%20Analyst%20Pathway/Cybersecurity%20Essentials%20Certificate.pdf)
 - [Networking Basics Certificate](Certifications/Cisco%20Junior%20Cybersecurity%20Analyst%20Pathway/Network%20Basics%20Certificate.pdf)
 - [Endpoint Security Certificate](Certifications/Cisco%20Junior%20Cybersecurity%20Analyst%20Pathway/Endpoint%20Security%20Certificate.pdf)
