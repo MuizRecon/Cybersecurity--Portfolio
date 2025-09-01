@@ -31,7 +31,7 @@ This pathway includes multiple sub-courses and certificates:
 ## Ethical Hacking Essentials (EHE)
 - EC-Council course completed via edX ✅  
 
-🔗 [View Certificates Folder](./)
+🔗 [View Certificates Folder](Ethical%20Hacking%20Essentials/)
 
  
 
