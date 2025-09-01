@@ -25,7 +25,7 @@ This pathway includes multiple sub-courses and certificates:
 - API Documentation Best Practices
 - OWASP API Security Top ten and beyond 
 
-🔗 [View Certificates Folder](API%20Security%20Certified%20Practitioner/))
+🔗 [View Certificates Folder](API%20Security%20Certified%20Practitioner/)
 
 ---
 ## Ethical Hacking Essentials (EHE)
