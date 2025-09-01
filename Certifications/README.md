@@ -9,7 +9,8 @@ This pathway includes multiple sub-courses and certificates:
 - Endpoint Security   
 - Junior Cybersecurity Analyst Final Certification 
 
-🔗 [View Certificates Folder](./)
+🔗 [View Certificates Folder](Certifications/Cisco%20Junior%20Cybersecurity%20Pathway/)
+
 
 ---
 
