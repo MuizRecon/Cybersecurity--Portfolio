@@ -9,5 +9,5 @@ It includes fundamentals, best practices, and advanced concepts around securing 
 2. [API Authentication](API%20Authentication.pdf)  
 3. [Securing API Servers](Securing%20API%20Servers.pdf)  
 4. [API Documentation Best Practices](API%20Documentation%20Best%20Practices.pdf)  
-5. [OWASP API Security Top 10](OWASP%20API%20Security%20Top%10.pdf)  
+5. [OWASP API Security Top 10](OWASP%20API%20Security%20Top%2010.pdf)   
 6. [APISEC Certified Practitioner Certificate](APISEC%20CERTIFIED%20PRACTITIONER.pdf)  
